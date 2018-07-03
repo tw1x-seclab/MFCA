@@ -78,13 +78,13 @@ Skip Redirect removes redirects in the URL. These redirects are used to track th
 to external domains. For WiFi Hotspot Logins you have to disable the add-on.
 
 > Skip Redirect changes this example
-
-**https://www.HereIComeFrom.com/track.php?u=**https//www.HereIGo.com/something/something
-
+```
+https://www.HereIComeFrom.com/track.php?u=https//www.HereIGo.com/something/something
+```
 > to this
-
-https//www.HereIGo.com/something/something
-
+```
+https://www.HereIGo.com/something/something
+```
 * Neat URL
 
 [Neat URL](https://addons.mozilla.org/en-US/firefox/addon/neat-url/)
@@ -93,13 +93,13 @@ The add-on Neat URL removes known tracking parameters from Google, Facebook, You
 trackers from the URL.
 
 > Neat URL changes this Example
-
-www.SomeSite.com/scan.php?page=someitem&px=noprivacyhere**&utm-source=twitter&utm-medium=tweet**
-
+```
+https://www.SomeSite.com/scan.php?page=someitem&px=noprivacyhere**&utm_source=twitter&utm_medium=tweet**
+```
 > to this
-
-www.SomeSite.com/scan.php?page=someitem&px=noprivacyhere
-
+```
+https://www.SomeSite.com/scan.php?page=someitem&px=noprivacyhere
+```
 ## Author
 
 * Michael D. aka tw1x 
