@@ -34,7 +34,7 @@ For maximum privacy and security you should install some addons.
 
 With NoScript Double you can manage permissions for Javascript and other content like Java 
 and Flash objects or WebGL. It also comes with XSS (cross site scripting) protection, which 
-is good, because unlike Internet Explorer (please don't use it) and Webkit-based browsers 
+is good, because unlike Internet Explorer (please don't use it :joy:) and Webkit-based browsers 
 like Google Chrome, Firefox does not have inbuilt protection against XSS attacks.
 
 * HTTPS Everywhere
@@ -102,4 +102,4 @@ www.SomeSite.com/scan.php?page=someitem&px=noprivacyhere
 
 ## Author
 
-* Michael D. aka tw1x
+* Michael D. aka tw1x 
