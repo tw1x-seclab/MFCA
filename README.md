@@ -94,7 +94,7 @@ trackers from the URL.
 
 > Neat URL changes this Example
 ```
-https://www.SomeSite.com/scan.php?page=someitem&px=noprivacyhere**&utm_source=twitter&utm_medium=tweet**
+https://www.SomeSite.com/scan.php?page=someitem&px=noprivacyhere&utm_source=twitter&utm_medium=tweet
 ```
 > to this
 ```
